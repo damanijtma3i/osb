@@ -15,8 +15,8 @@ client.on('message', msg => {  //WESO#0001
   });
 
 client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'ويسو') {  //WESO#0001
-      msg.reply('**ويسو مات**');  //WESO#0001
+    if (msg.content === 'باي') {  //WESO#0001
+      msg.reply('**مع السلامة :starcraft:**');  //WESO#0001
     }
   });
 
